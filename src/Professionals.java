@@ -6,5 +6,6 @@ public class Professionals {
         System.out.println(87);
 
         System.out.println("They don't believe");
+        System.out.println("we do believe");
     }
 }
